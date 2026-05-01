@@ -22,8 +22,8 @@ This project analyzes sales data using Excel to understand business performance 
 - Sales peak during months 10–11
 - Standard Class is the most used shipping mode
 
-## 📁 Files Included
-- Excel Dashboard
-- PPT Presentation
+# 📁 Files Included
+- Excel Dashboard (.xlsx)
 - Project Report (PDF)
-- Dashboard Screenshot
+- Dashboard Screenshot (.png)
+- [📊 PPT Presentation](./Superstore_Presentation.pptx)
