@@ -25,11 +25,10 @@ This project analyzes sales data using Excel to understand business performance 
 # 📁 Files Included
 - Excel Dashboard (.xlsx)
 - Project Report (PDF)
-* Dashboard Screenshot (.png)
 
 ## Dashboard Preview
+![Dashboard Preview](Superstore%20sales.png)
 
-Superstore sales.png
 
 
 
