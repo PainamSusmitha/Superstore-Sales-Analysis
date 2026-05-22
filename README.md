@@ -29,6 +29,7 @@ This project analyzes sales data using Excel to understand business performance 
 
 ## Dashboard Preview
 
-![Dashboard Preview](superstore-dashboard.png)
+Superstore sales.png
+
 
 
