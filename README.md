@@ -1,4 +1,3 @@
-
 # Superstore Sales Analysis (Excel Project)
 
 ## 📊 Project Overview
@@ -22,13 +21,10 @@ This project analyzes sales data using Excel to understand business performance 
 - Sales peak during months 10–11
 - Standard Class is the most used shipping mode
 
-# 📁 Files Included
+## 📁 Files Included
 - Excel Dashboard (.xlsx)
 - Project Report (PDF)
+- Presentation (.pptx)
 
 ## Dashboard Preview
-![Dashboard Preview](Superstore%20sales.png)
-
-
-
-
+![Dashboard Preview](Superstore%20Sales%20Analysis.png)
